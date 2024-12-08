@@ -46,7 +46,7 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a href="index.html" class="active">Home</a></li>
-          <li><a href="about.html">About</a></li>
+          <li><a href="about.jsp">About</a></li>
           <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-bs-toggle="dropdown">Login</a>
             <ul class="dropdown-menu">
@@ -55,7 +55,7 @@
               <li><a class="dropdown-item" href="fundadvisor-login.html">Fund Advisor Login</a></li>
             </ul>
           </li>
-          <li><a href="contact.html">Contact</a></li>
+          <li><a href="contact.jsp">Contact</a></li>
         </ul>
       </nav><!-- .navbar -->
     </div>
